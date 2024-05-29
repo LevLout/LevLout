@@ -42,12 +42,6 @@ Hi, I'm Lev Alieshchenko, a dedicated Full-Stack Developer with almost 5 years o
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- **JavaScript Course**  
-  Completed in February 2018
-
-- **Project Infrastructure Course**  
-  Completed in March 2019
-
 ## Contact
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's connect and make your project a success!
